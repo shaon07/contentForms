@@ -1,0 +1,114 @@
+.divLeft {
+  background-color: #5d5fd4;
+  height: 100vh !important;
+  /* overflow: scroll; */
+}
+.divLeftText h2 {
+  text-align: left;
+  padding: 2rem 0;
+  font-weight: bold;
+}
+
+.divLeftText img {
+  width: 60%;
+}
+.divLeftText {
+  /* background: red; */
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  color: white;
+}
+.divLeftText p {
+  text-align: left;
+}
+p#textRightSignUp {
+  text-align: right;
+}
+.col-12.col-md-6.divRight {
+  text-align: center;
+}
+.divRightText p {
+  font-weight: 500;
+}
+
+.divRightText h3 {
+  font-weight: bold;
+  margin: 0;
+}
+.divRightForm {
+  /* background: red; */
+  display: inline-block;
+  width: 60%;
+  padding: 1rem 0;
+  text-align: left;
+}
+.formInput label {
+  font-size: 13px;
+  font-weight: bold;
+  color: grey;
+}
+.formInput input {
+  border: none;
+  outline: none;
+  background: #80808033;
+  width: 80%;
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin: 10px 0;
+}
+a#signUpCode {
+  text-align: center !important;
+  color: deeppink;
+  font-weight: bold;
+  text-decoration: none;
+  margin: 10px 0;
+}
+.formCheck span a {
+  padding: 5px;
+}
+
+.formCheck span {
+  padding: 10px;
+}
+.formCheck input {
+  padding-right: 13px;
+}
+.formbtn {
+  margin-top: 2rem;
+}
+
+.formbtn a {
+  text-decoration: none;
+  border: 2px solid #7678ed;
+  padding: 10px 30px;
+  border-radius: 50px;
+}
+
+p#textRightSignUp a {
+  text-decoration: none;
+  padding: 5px 1rem;
+  border-radius: 30px;
+  border: 2px solid hotpink;
+  color: black;
+  font-weight: bold;
+  margin: 0 10px;
+}
+p#textRightSignUp a:hover {
+  background-color: hotpink;
+  color: white;
+}
+
+@media (max-width: 768px) {
+  .divLeft {
+    background-color: #5d5fd4;
+    height: 100vh !important;
+    /* overflow: scroll; */
+    display: none;
+  }
+  .col-12.col-md-6.divRight {
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+  }
+}

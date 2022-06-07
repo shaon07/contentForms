@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="73" height="73" viewBox="0 0 73 73">
+  <g id="Group_3060" data-name="Group 3060" transform="translate(19982 9035)">
+    <rect id="Rectangle_3089" data-name="Rectangle 3089" width="73" height="73" transform="translate(-19982 -9035)" fill="none"></rect>
+    <g id="Group_3052" data-name="Group 3052" transform="translate(-19972 -9026)">
+      <rect id="Rectangle_2951" data-name="Rectangle 2951" width="49.672" height="49.672" transform="translate(2.484 2.484)" fill="#fff"></rect>
+      <rect id="Rectangle_2952" data-name="Rectangle 2952" width="24.836" height="14.902" transform="translate(17.386 24.836)" fill="#dd509a"></rect>
+      <g id="Group_2867" data-name="Group 2867">
+        <path id="Path_125101" data-name="Path 125101" d="M454.2,1131.113v54.639h54.64v-54.639Zm49.672,9.934h-29.8v-4.967h29.8ZM469.1,1136.08v4.967h-9.934v-4.967Zm-9.934,44.705v-34.771h44.705v34.771Z" transform="translate(-454.2 -1131.113)" fill="#6ad2f1"></path>
+      </g>
+      <path id="Path_125102" data-name="Path 125102" d="M484.036,1158.015H459.2v-14.9h4.967v9.934h19.869Z" transform="translate(-446.782 -1113.31)" fill="#703dc1"></path>
+      <rect id="Rectangle_2953" data-name="Rectangle 2953" width="4.967" height="4.967" transform="translate(12.419 24.836)" fill="#6ad2f1"></rect>
+      <rect id="Rectangle_2954" data-name="Rectangle 2954" width="24.836" height="4.967" transform="translate(17.386 19.869)" fill="#6ad2f1"></rect>
+    </g>
+  </g>
+</svg>

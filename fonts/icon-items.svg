@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="86" height="86" viewBox="0 0 86 86">
+  <g id="Group_3044" data-name="Group 3044" transform="translate(-1028 -2109)">
+    <circle id="Ellipse_11" data-name="Ellipse 11" cx="43" cy="43" r="43" transform="translate(1028 2109)" fill="#703dc1"></circle>
+    <g id="Group_847" data-name="Group 847" transform="translate(1049.66 2135.16)">
+      <rect id="Rectangle_245" data-name="Rectangle 245" width="15.354" height="5.18" transform="translate(14.965 29.188)" fill="#6ad2f1"></rect>
+      <rect id="Rectangle_246" data-name="Rectangle 246" width="7.359" height="5.18" transform="translate(15.965 15.834)" fill="#6ad2f1"></rect>
+      <rect id="Rectangle_244" data-name="Rectangle 244" width="10.539" height="5.845" transform="translate(15.965 1.814)" fill="#6ad2f1"></rect>
+      <path id="Path_38255" data-name="Path 38255" d="M447.8,120.925l1.57,3.1,3.432.536-2.462,2.45.551,3.429-3.091-1.584-3.091,1.584.551-3.429-2.462-2.45,3.432-.536Z" transform="translate(-442.801 -120.68)" fill="#6ad2f1"></path>
+      <path id="Path_38256" data-name="Path 38256" d="M447.8,128.925l1.57,3.1,3.432.536-2.462,2.45.551,3.429-3.091-1.584-3.091,1.584.551-3.429-2.462-2.45,3.432-.536Z" transform="translate(-442.801 -115.342)" fill="#6ad2f1"></path>
+      <path id="Path_38257" data-name="Path 38257" d="M447.8,136.925l1.57,3.1,3.432.536-2.462,2.45.551,3.429-3.091-1.584-3.091,1.584.551-3.429-2.462-2.45,3.432-.536Z" transform="translate(-442.801 -110.004)" fill="#6ad2f1"></path>
+      <g id="Group_844" data-name="Group 844" transform="translate(13.337)">
+        <path id="Path_38258" data-name="Path 38258" d="M474.142,130.781H450.8v-10h23.341Zm-20.007-3.334h16.672v-3.334H454.135Z" transform="translate(-450.801 -120.778)" fill="#fff"></path>
+      </g>
+      <g id="Group_845" data-name="Group 845" transform="translate(13.337 26.675)">
+        <path id="Path_38259" data-name="Path 38259" d="M474.142,146.781H450.8v-10h23.341Zm-20.007-3.334h16.672v-3.334H454.135Z" transform="translate(-450.801 -136.778)" fill="#fff"></path>
+      </g>
+      <g id="Group_846" data-name="Group 846" transform="translate(13.337 13.338)">
+        <path id="Path_38260" data-name="Path 38260" d="M474.142,138.781H450.8v-10h23.341Zm-20.007-3.334h16.672v-3.334H454.135Z" transform="translate(-450.801 -128.778)" fill="#fff"></path>
+      </g>
+    </g>
+  </g>
+</svg>
